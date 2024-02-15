@@ -4,7 +4,7 @@ What is HTML?
 <li>HyperText Markup Language is the foundation of everything digital as it serves as a channel for different types of content</li><br> 
 <li>HTML is straightforward as it is a declarative language that gives it it's simplicity.</li>
 <li>HTML uses tags to markup different elements as it is a language used to structure web pages</li>
-HTML markup is a bridge or connection between the human world and computers it achieves this by gicing meaning to content and helping computers understand it
+<li>HTML markup is a bridge or connection between the human world and computers it achieves this by gicing meaning to content and helping computers understand it</li><br>
 When nesting elements to each other you need to pat attention to how you open and close tags as this helps convey meaning about the content and interface 
 HTML elements marking up headlines come in six different types and they convey a hierarchy in how the browser interprets the page.
 This hierarchical system is used distingsh what is most important from what is less important, this helps users easily navigate the page
