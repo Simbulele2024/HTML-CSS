@@ -5,7 +5,7 @@
 <li>HTML is straightforward as it is a declarative language that gives it it's simplicity.</li>
 <li>HTML uses tags to markup different elements as it is a language used to structure web pages</li>
 <li>HTML markup is a bridge or connection between the human world and computers it achieves this by giving meaning to content and helping computers understand it</li><br>
-<li>When nesting elements to each other you need to pat attention to how you open and close tags as this helps convey meaning about the content and interface <br>
+<li>When nesting elements to each other you need to pay attention to how you open and close tags as this helps convey meaning about the content and interface <br>
 <li>HTML elements marking up headlines come in six different types and they convey a hierarchy in how the browser interprets the page.<br>
 <li>This hierarchical system is used distingsh what is most important from what is less important, this helps users easily navigate the page<br>
 <li>Tags come in # HTML-CSStwo types, open < p> and closed< /p> these tags work together to define elements<br>
