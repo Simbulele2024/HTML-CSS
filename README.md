@@ -91,3 +91,6 @@ The syntax for setting the back-ground image:
 <li>The fonts, height, width, margins, padding, etc. are set on a web page with the length units. For example, height 100px, width 100px, font 2em, etc. </li>
 <li>These length units are categorised into Absolute and Relative Units.</li>
 <li>CSS uses a box model to define the size of elements on a web page.</li>
+<br><br>
+What is Python?
+Python is a high-level, general-purpose, and very popular programming language.<br> Python programming language (latest Python 3) is being used in web development, and Machine Learning applications, along with all cutting-edge technology in Software Industry.<br> Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber…
