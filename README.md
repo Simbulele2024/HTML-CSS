@@ -138,16 +138,16 @@ Python is a high-level, general-purpose, and very popular programming language.<
 <li>Type Casting</li>
 <br>
 <h3>Strings:</h3>
-<p>Strings represent sequences of characters enclosed within single quotes (''') or double quotes ('"').</p><br>
+Strings represent sequences of characters enclosed within single quotes (''') or double quotes ('"').<br>
 message = "Hello, World!"<br>
 print(message)  # Output: Hello, World!<br>
 <h3>Numbers:</h3>
-<p>Python supports various numeric types, including integers, floating-point numbers, and complex numbers.</p><br>
+Python supports various numeric types, including integers, floating-point numbers, and complex numbers.<br>
 x = 10  # Integer<br>
 y = 3.14  # Float<br>
 z = 5 + 2j  # Complex<br>
 <h3>Booleans:</h3>
-<p>Booleans represent truth values, either True or False.</p><br>
+Booleans represent truth values, either True or False.<br>
 is_valid = True<br>
 has_error = False<br>
 <h3>Lists:</h3>
@@ -155,5 +155,21 @@ Lists are ordered collections of items, mutable (modifiable), and enclosed withi
 fruits = ["apple", "banana", "cherry"]<br>
 fruits.append("orange")<br>
 print(fruits)  # Output: ['apple', 'banana', 'cherry', 'orange']<br>
+<h3>Tuples:</h3><br>
+Tuples are ordered collections of items, immutable (cannot be modified), and enclosed within parentheses ('()').<br>
+coordinates = (10, 20)<br>
+x, y = coordinates<br>
+print(x)  # Output: 10<br>
+<h3>Sets:</h3>
+Sets are unordered collections of unique items, enclosed within curly braces ('{}'). Sets do not allow duplicate elements.<br>
+unique_numbers = {1, 2, 3, 4, 5}<br>
+<h3>Dictionary:</h3>
+Dictionaries are unordered collections of key-value pairs, enclosed within curly braces ('{}'). Keys are unique within a dictionary.<br>
+<h3>Arrays:</h3>
+Arrays are not built-in data types in Python, but you can use lists or the array module for similar functionality.<br>
+import array<br>
+nums = array.array('i', [1, 2, 3, 4, 5])  # 'i' denotes integer type<br>
+
+
 
 
