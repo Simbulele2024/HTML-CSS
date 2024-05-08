@@ -92,6 +92,37 @@ The syntax for setting the back-ground image:
 <li>These length units are categorised into Absolute and Relative Units.</li>
 <li>CSS uses a box model to define the size of elements on a web page.</li>
 <br><br>
+<h2>Introduction to Java</h2>
+<li>Origin: Java was created by James Gosling at Sun Microsystems in 1995. Initially developed for consumer electronics, it quickly found its niche in web development.</li>
+<li>Name Change: Originally named Oak, it was later renamed Java, inspired by the coffee consumed by the development team.</li>
+<h2>Key Features:</h2>
+<li>Platform Independence: Java programs are compiled into bytecode, which can run on any device with a Java Virtual Machine (JVM). This enables "write once, run anywhere" (WORA) capability.</li>
+<li>Object-Oriented: Java follows the object-oriented programming paradigm, emphasizing modularity and reusability through classes and objects.</li>
+<li>Robust: Java's robustness stems from features like automatic memory management (garbage collection), strong type checking, and exception handling.</li>
+<li>Secure: The Java platform incorporates security features such as bytecode verification and a security manager to protect systems from malicious code.</li>
+<li>High Performance: Java achieves high performance through Just-In-Time (JIT) compilation, where bytecode is translated into machine code at runtime for efficient execution.</li>
+<h2>Java Virtual Machine (JVM):</h2>
+<li>Execution Environment: JVM provides a platform-independent execution environment for Java bytecode.</li>
+<li>Memory Management: JVM manages memory allocation and deallocation, including garbage collection.</li>
+<li>Platform Specific Implementations: Different JVM implementations exist for various operating systems and architectures, ensuring compatibility across diverse environments.</li>
+<h2>Syntax:</h2>
+<li>Java syntax resembles C and C++, making it familiar to programmers from those languages.</li>
+<li>Every Java application must contain at least one class with a main() method, serving as the entry point for execution.</li>
+<h2>Basic Syntax Examples:</h2>
+<p>The "Hello World" program demonstrates the simplest Java syntax, where System.out.println() prints a message to the console.</p>
+<h2>Data Types:</h2>
+<li>Primitive Data Types: These include numeric types (byte, short, int, long, float, double), character type (char), and boolean type (boolean).</li>
+<li>Non-primitive Data Types: Arrays, Strings, and Classes are examples of non-primitive data types.</li>
+<h2>Control Structures:</h2>
+<li>Conditional Statements: Java supports if-else and switch-case statements for decision-making.</li>
+<li>Looping Constructs: for, while, and do-while loops enable repetitive execution of code blocks.</li>
+<h2>Object-Oriented Programming (OOP):</h2>
+<li>Classes and Objects: Classes define the blueprint for creating objects, encapsulating data and behavior.</li>
+<li>Inheritance: Subclasses can inherit properties and behaviors from a superclass, promoting code reuse.</li>
+<li>Polymorphism: Java supports polymorphism, where objects of different classes can be treated interchangeably through method overriding and method overloading.</li>
+<li>Encapsulation and Abstraction: Encapsulation hides internal state and requires interaction through well-defined interfaces. Abstraction emphasizes essential characteristics while hiding implementation details.</li>
+
+<br><br>
 <h2>What is Python?</h2>
 Python is a high-level, general-purpose, and very popular programming language.<br> Python programming language (latest Python 3) is being used in web development, and Machine Learning applications, along with all cutting-edge technology in Software Industry.<br> Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber…<br>
 
