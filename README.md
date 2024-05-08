@@ -169,6 +169,10 @@ Dictionaries are unordered collections of key-value pairs, enclosed within curly
 Arrays are not built-in data types in Python, but you can use lists or the array module for similar functionality.<br>
 import array<br>
 nums = array.array('i', [1, 2, 3, 4, 5])  # 'i' denotes integer type<br>
+<h3>Type Casting:</h3>
+Type casting is the process of converting one data type into another.<br>
+num_str = "10"<br>
+num_int = int(num_str)  # Convert string to integer<br>
 
 
 
