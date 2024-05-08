@@ -1,5 +1,5 @@
 
-<h2>What is HTML?</h2>
+<h1>What is HTML?</h1>
 <ul>
 <li>HyperText Markup Language is the foundation of everything digital as it serves as a channel for different types of content</li><br> 
 <li>HTML is straightforward as it is a declarative language that gives it it's simplicity.</li>
@@ -92,7 +92,56 @@ The syntax for setting the back-ground image:
 <li>These length units are categorised into Absolute and Relative Units.</li>
 <li>CSS uses a box model to define the size of elements on a web page.</li>
 <br><br>
-<h2>Introduction to Java</h2>
+<h1>Introduction to JavaScript:</h1>
+<li>JavaScript, often abbreviated as JS, was created by Brendan Eich in 1995 while he was working at Netscape Communications Corporation.</li>
+<li>Initially developed as a scripting language for web browsers to enhance HTML pages with interactivity.</li><br>
+<h2>Key Features:</h2>
+<li>Client-Side Scripting: Primarily used for client-side web development to make web pages interactive.</li>
+<li>Versatility: Can be used for both front-end and back-end development (Node.js).</li>
+<li>Dynamic Typing: Variables are not explicitly typed, allowing flexible data handling.</li>
+<li>Prototype-based: Object-oriented language where objects inherit properties and methods directly from other objects.</li>
+<li>Event-Driven: Responds to events triggered by user actions or system events.</li>
+<li>Asynchronous: Supports asynchronous programming with features like callbacks, promises, and async/await.</li><br>
+<h2>Syntax:</h2>
+<li>Syntax is similar to C-based languages such as Java and C++, making it relatively easy to learn for programmers familiar with those languages.</li>
+<li>JavaScript code is executed by web browsers' JavaScript engines.</li><br>
+<h2>Basic Syntax Examples:</h2>
+// Hello World program<br>
+console.log("Hello, World!");<br>
+<h2>Data Types:</h2>
+<li>Primitive: Number, String, Boolean, Undefined, Null, Symbol (added in ECMAScript 6).</li>
+<li>Non-primitive (Reference types): Objects, Arrays, Functions.</li><br>
+<h2>Control Structures:</h2>
+<li>Conditional Statements: if-else, switch-case.</li>
+<li>Looping Constructs: for, while, do-while.</li><br>
+<h2>Functions:</h2>
+<li>JavaScript functions are first-class objects, meaning they can be passed around like any other object.</li>
+<li>Can be defined using the 'function' keyword or as arrow functions (introduced in ECMAScript 6).</li><br>
+<h2>Objects and Prototypes:</h2>
+<li>JavaScript is object-oriented, where objects are collections of key-value pairs.</li>
+<li>Objects can inherit properties and methods from other objects through prototypes.</li><br>
+<h2>Arrays:</h2>
+<li>Arrays are ordered collections of elements, and they can contain elements of different data types.</li>
+<li>Various built-in methods are available for array manipulation, such as 'push()', 'pop()', 'slice()', 'map()', 'filter()', etc.</li><br>
+<h2>DOM Manipulation:</h2>
+<li>Document Object Model (DOM) represents the structure of HTML documents.</li>
+<li>JavaScript can manipulate the DOM dynamically to change the content, structure, and style of web pages.</li><br>
+<h2>Event Handling:</h2>
+JavaScript can respond to various events such as clicks, keypresses, mouse movements, etc., using event listeners.<br>
+<h2>Asynchronous Programming:</h2>
+JavaScript supports asynchronous programming to handle tasks that might take some time to complete, such as fetching data from a server or reading files.<br>
+<h2>Modules:</h2>
+<li>ECMAScript 6 introduced the concept of modules for organizing and encapsulating JavaScript code.</li>
+<li>Modules allow for better code organization, reusability, and maintainability.</li><br>
+<h2>Popular Libraries and Frameworks:</h2>
+<li>Front-end: React.js, AngularJS, Vue.js.</li>
+<li>Back-end: Node.js, Express.js.</li>
+<li>Testing: Jasmine, Mocha, Jest.</li><br>
+<h2>Development Tools:</h2>
+<li>Various integrated development environments (IDEs) and text editors support JavaScript development, including Visual Studio Code, Sublime Text, Atom, etc.</li>
+<li>Debugging tools like Chrome DevTools are widely used for debugging JavaScript code in web browsers.</li>
+
+<h1>Introduction to Java</h1>
 <li>Origin: Java was created by James Gosling at Sun Microsystems in 1995. Initially developed for consumer electronics, it quickly found its niche in web development.</li>
 <li>Name Change: Originally named Oak, it was later renamed Java, inspired by the coffee consumed by the development team.</li>
 <h2>Key Features:</h2>
@@ -123,7 +172,7 @@ The syntax for setting the back-ground image:
 <li>Encapsulation and Abstraction: Encapsulation hides internal state and requires interaction through well-defined interfaces. Abstraction emphasizes essential characteristics while hiding implementation details.</li>
 
 <br><br>
-<h2>What is Python?</h2>
+<h1>What is Python?</h1>
 Python is a high-level, general-purpose, and very popular programming language.<br> Python programming language (latest Python 3) is being used in web development, and Machine Learning applications, along with all cutting-edge technology in Software Industry.<br> Python language is being used by almost all tech-giant companies like – Google, Amazon, Facebook, Instagram, Dropbox, Uber…<br>
 
 <h2>Python Data Types</h2>
